@@ -33,13 +33,13 @@
 git clone https://github.com/mishakozak09-cmd/calculator-project.git
 ```
 2. Перейдіть у папку проєкту:
-   
+```   
 cd calculator-project
-
+```
 3. Запустіть програму:
-   
+  ``` 
 python calculator.py
-
+```
 
 ## Використання
 
