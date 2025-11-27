@@ -22,14 +22,24 @@
 - Python 3.7 або вище
 - Операційна система: Windows / macOS / Linux
 
+
+Видали її й встав замість ОЦЕ (повністю):
+
+```md
 ## Встановлення
 
 1. Клонуйте репозиторій:
 
 ```bash
 git clone https://github.com/mishakozak09-cmd/calculator-project.git
-
-
+\`\`\`
+2. Перейдіть у папку проєкту:
+cd calculator-project
+\`\`\`
+\`\`\`
+3. Запустіть програму:
+python calculator.py
+\`\`\`
 
 ## Використання
 
